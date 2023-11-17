@@ -54,7 +54,7 @@ https://docs.google.com/presentation/d/1HJyiMJPkAnA3Rv3J-ZeHESn4_4LM1xGUXkJnmpPH
 https://www.figma.com/proto/EuYhOJXcPyVJzV2CsOZb72/Carbon?page-id=1%3A27&type=design&node-id=1955-20472&viewport=200%2C-32%2C0.48&t=4qOL4utn7R701vx0-1&scaling=scale-down&starting-point-node-id=1955%3A20472&show-proto-sidebar=1
 
 ### `How it works`
-![Alt text](https://raw.githubusercontent.com/BonBon-AlephZero/contract/main/how-to-work.jpg)
+![Alt text](https://github.com/BonBon-netzero/.github/blob/main/profile/bonbon_how-to-work.jpeg?raw=true)
 
 ### `Our community`
 ![Alt text](https://twitter.com/bonbon_netzero)
