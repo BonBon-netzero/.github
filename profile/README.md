@@ -57,4 +57,8 @@ https://www.figma.com/proto/EuYhOJXcPyVJzV2CsOZb72/Carbon?page-id=1%3A27&type=de
 ![Alt text](https://github.com/BonBon-netzero/.github/blob/main/profile/bonbon_how-to-work.jpeg?raw=true)
 
 ### `Our community`
-![Alt text](https://twitter.com/bonbon_netzero)
+X: https://twitter.com/bonbon_netzero
+
+Zalo: https://zalo.me/g/arsqwf664
+
+Linkedin: https://www.linkedin.com/in/le-uyen-thao-b17680a4/
