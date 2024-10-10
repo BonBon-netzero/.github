@@ -1,15 +1,6 @@
 ### `Project title`
 BonBon - The Netzero social network
 
-### `Project objectives` 
-- Stage 1: Using green products to accumulate carbon emission reduction points.
-- Stage 2: Build a social network for carbon-neutral lifestyles.
-
-### `Project mission` 
-Our mission is help the world reach the net-zero goal in 2050.
-
-By accelerating humanity's transition to an environmentally friendly lifestyle and prioritizing the use of carbon-neutral products. By 2050, we will transform the lifestyles of 1 billion people worldwide and help the world achieve the net-zero emissions goal
-
 ### `Explain Like I'm Five (ELI5)` 
 Every time you buy candy, you will receive a seed to grow a tree. You can take these seeds home and plant them, or give them to others.
 
